@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Activity_User_Registration</string>
+    <string name="pls_wait_txt">Please wait</string>
+
+    <string name="gender_prompt">Choose Gender</string>
+    <string-array name="gender_array">
+        <item>--Select Gender--</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="language_prompt">Choose Gender</string>
+    <string-array name="language_array">
+        <item>--Select Language--</item>
+        <item>Java</item>
+        <item>C</item>
+        <item>Python</item>
+    </string-array>
+
+</resources>
